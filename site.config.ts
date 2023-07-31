@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   weibo: '哈哈的哈士奇',
   github: 'lndlhsq',
-  公众号: '合于桑林之舞',
+  WeChat: '合于桑林之舞',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
