@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'HiAaBlog',
   domain: 'https://www.notion.so/HiAaBlog-07de7b8964664d70af3762940b949206?pvs=4',
-  author: 'HaHa',
+  author: '哈哈的哈士奇',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '合于桑林之舞',
   github: 'lndlhsq',
-  author: '哈哈的哈士奇',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
