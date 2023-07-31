@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  weibo: '哈哈的哈士奇',
+  twitter: '合于桑林之舞',
   github: 'lndlhsq',
-  WeChat: '合于桑林之舞',
+  author: '哈哈的哈士奇',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
